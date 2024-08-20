@@ -4,7 +4,7 @@ Esse é o projeto **Carrinho de Compras**, criado por **Abel Sena** aprimorar as
 
 ## :heart: Pontos principais do Projeto
 
- **Ponto Forte do Projeto Carrinho de Compra** foi o uso do **TypeScript** usando a biblioteca (**NextJS**) e na estilização foi utilizado **TailwindCss. Esse teste foi otimo para praticar alguns conceitos de **Programação**. 
+ **Ponto Forte do Projeto Carrinho de Compra** foi o uso do **TypeScript** usando a biblioteca (**NextJS**) e na estilização foi utilizado **TailwindCss**. Esse teste foi otimo para praticar alguns conceitos de **Programação**. 
 
 ### :computer: Front-End
 - Adicionado imagem inicial do projeto

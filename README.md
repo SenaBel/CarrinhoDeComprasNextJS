@@ -10,7 +10,7 @@ Esse é o projeto **Carrinho de Compras**, criado por **Abel Sena** aprimorar as
 - Adicionado imagem inicial do projeto
 
 <div align="center">
-    <img src="imagemCarrinhoDeCompra.png" alt="local-criado" />
+    <img src="src/imagemCarrinhoDeCompra.png" alt="local-criado" />
 </div>
 
 - Esse projeto tem uma tela inicial onde o usuário escolhe os produtos à serem inseridos no carrinho.

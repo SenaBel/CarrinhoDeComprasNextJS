@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Carrinho de Compra Desenvolvido no Front-End com NextJS / Typescript / TailwindCss
 
-## Getting Started
+Esse é o projeto **Carrinho de Compras**, criado por **Abel Sena** aprimorar as novas ferramentas atuais de front-end. 
 
-First, run the development server:
+## :heart: Pontos principais do Projeto
 
+ **Ponto Forte do Projeto Carrinho de Compra** foi o uso do **TypeScript** usando a biblioteca (**NextJS**) e na estilização foi utilizado **TailwindCss. Esse teste foi otimo para praticar alguns conceitos de **Programação**. 
+
+### :computer: Front-End
+- Adicionado imagem inicial do projeto
+
+<div align="center">
+    <img src="imagemCarrinhoDeCompra.png" alt="local-criado" />
+</div>
+
+- Esse projeto tem uma tela inicial onde o usuário escolhe os produtos à serem inseridos no carrinho.
+- Além disto o prejeto tem as opções de clicar no carrinho onde será direcionado para uma outra pagina onde mostrará os intens com detalhes do carrinho para finalizar a compra.
+
+## :floppy_disk: Como rodar?
+
+### 1 - Clonar o repositório
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git https://github.com/SenaBel/CarrinhoDeComprasNextJS
+cd app-carrinho-de-compras
 ```
+### 2 - Instalar as dependências 
+No diretório `app-carrinho-de-compras`, rode o comando `npm install`. Depois de instalar as dependências, execute o script `npm run start`.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 3 - Versão
+ Node: `20.12`
+ NextJS: `14`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## :Abel Sena: Criador
 
-## Learn More
+### Informações adicionais.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- GitHub: [@SenaBel](https://github.com/SenaBel)
+- LinkedIn: [@Abel Sena](www.linkedin.com/in/abel-sena)
